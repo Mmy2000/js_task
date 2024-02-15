@@ -84,3 +84,14 @@ else{
     console.log("odd");
 }
 */
+
+/*
+question 8
+string = window.prompt("enter your letter : ")
+if (string === "a" | string === "e" |string === "l" |string === "o" |string === "u"  ) {
+    console.log("vowel");
+}
+else{
+    console.log("consonant");
+}
+*/
