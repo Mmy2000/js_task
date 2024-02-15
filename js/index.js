@@ -123,3 +123,14 @@ for (var i = 1; i < number; i++) {
     
 }
 */
+
+/*
+question 12
+n1 = Number(window.prompt("Enter the first number : "))
+n2 = Number(window.prompt("Enter the second number : "))
+var result = 1
+for (var i = 0; i < n2; i++) {
+    result *= n1;    
+}
+console.log(result);
+*/
