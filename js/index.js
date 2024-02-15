@@ -143,7 +143,7 @@ mark3 = Number(window.prompt("Enter the third number : "))
 mark4 = Number(window.prompt("Enter the fourth number : "))
 mark5 = Number(window.prompt("Enter the fifth number : "))
 
-total = mark1 + mark2 + mark3 + mark4 + mark5,
+total = mark1 + mark2 + mark3 + mark4 + mark5;
 console.log("Total : "+" " + total);
 avarege = (total / 5);
 console.log("Avarege : "+" "+avarege);
@@ -151,3 +151,34 @@ percentage = (total / (5*100) ) * 100;
 console.log("Percentage : "+" "+percentage);
 */
 
+/*
+question 15
+mark1 = Number(window.prompt("Enter the Physics grade : "))
+mark2 = Number(window.prompt("Enter the Chemistry grade : "))
+mark3 = Number(window.prompt("Enter the Biology grade : "))
+mark4 = Number(window.prompt("Enter the Mathematics grade : "))
+mark5 = Number(window.prompt("Enter the Computer grade : "))
+
+total = mark1 + mark2 + mark3 + mark4 + mark5;
+console.log("Total : "+" " + total);
+percentage = (total / (5*100) ) * 100;
+console.log("Percentage : "+" "+percentage);
+if (percentage >= 90) {
+    console.log("Grade A");
+}
+else if (percentage>=80){
+    console.log("Grade B");
+}
+else if (percentage>=70){
+    console.log("Grade C");
+}
+else if (percentage>=60){
+    console.log("Grade D");
+}
+else if (percentage>=40){
+    console.log("Grade E");
+}
+else if (percentage<40){
+    console.log("Grade F");
+}
+*/
