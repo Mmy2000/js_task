@@ -31,7 +31,7 @@ else{
 
 /*
 question 4
-number = Number(window.prompt("Enter the first number : "))
+number = Number(window.prompt("Enter the number : "))
 if (number>0) {
     console.log("positive");
 }
@@ -42,6 +42,7 @@ else{
 
 /*
 question 5
+
 number1 = Number(window.prompt("Enter the first number : "))
 number2 = Number(window.prompt("Enter the second number : "))
 number3 = Number(window.prompt("Enter the third number : "))
@@ -69,5 +70,17 @@ else if (number3>number1 & number3>number2 & number1>number2){
 else if (number3>number1 & number3>number2 & number1<number2){
     console.log(number3+" "+"max element");
     console.log(number1+" "+"min element");
+}
+*/
+
+/*
+question 6
+
+number = Number(window.prompt("Enter the number : "))
+if (number%2==0) {
+    console.log("even");
+}
+else{
+    console.log("odd");
 }
 */
