@@ -16,3 +16,15 @@ else{
 }
 */
 
+/*
+question 3
+number1 = Number(window.prompt("Enter the first number : "))
+number2 = Number(window.prompt("Enter the second number : "))
+
+if (number1 > number2) {
+    console.log(number1 + " " + "is greater");
+}
+else{
+    console.log(number2 + " " + "is greater");
+}
+*/
