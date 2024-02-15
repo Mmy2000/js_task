@@ -134,3 +134,20 @@ for (var i = 0; i < n2; i++) {
 }
 console.log(result);
 */
+
+/*
+quwstion 13
+mark1 = Number(window.prompt("Enter the first number : "))
+mark2 = Number(window.prompt("Enter the second number : "))
+mark3 = Number(window.prompt("Enter the third number : "))
+mark4 = Number(window.prompt("Enter the fourth number : "))
+mark5 = Number(window.prompt("Enter the fifth number : "))
+
+total = mark1 + mark2 + mark3 + mark4 + mark5,
+console.log("Total : "+" " + total);
+avarege = (total / 5);
+console.log("Avarege : "+" "+avarege);
+percentage = (total / (5*100) ) * 100;
+console.log("Percentage : "+" "+percentage);
+*/
+
