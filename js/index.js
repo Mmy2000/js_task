@@ -152,6 +152,34 @@ console.log("Percentage : "+" "+percentage);
 */
 
 /*
+question 14
+mounthNumber = Number(window.prompt("Enter the mounth number : "))
+switch (mounthNumber) {
+    case 1:
+    case 3:
+    case 5:
+    case 7:
+    case 8:
+    case 10:
+    case 12:
+        console.log("31");
+        break;
+    case 4:
+    case 6:
+    case 9:
+    case 11:
+        console.log("30");
+        break;
+    case 2:
+        console.log("28");
+        break;
+    default:
+        console.log("Invalid month number entered.");
+        break;
+}
+*/
+
+/*
 question 15
 mark1 = Number(window.prompt("Enter the Physics grade : "))
 mark2 = Number(window.prompt("Enter the Chemistry grade : "))
@@ -182,3 +210,4 @@ else if (percentage<40){
     console.log("Grade F");
 }
 */
+
