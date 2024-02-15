@@ -103,3 +103,12 @@ for (var i = 1; i < number; i++) {
     console.log(i);
 }
 */
+
+/*
+question 10
+number = Number(window.prompt("Enter the number : "))
+for (var i = 2; i < 13; i++) {
+    console.log(i * number);
+    
+}
+*/
