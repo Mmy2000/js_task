@@ -99,7 +99,7 @@ else{
 /*
 question 9
 number = Number(window.prompt("Enter the number : "))
-for (var i = 0; i < number; i++) {
+for (var i = 1; i < number; i++) {
     console.log(i);
 }
 */
