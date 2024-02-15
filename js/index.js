@@ -28,3 +28,14 @@ else{
     console.log(number2 + " " + "is greater");
 }
 */
+
+/*
+question 4
+number = Number(window.prompt("Enter the first number : "))
+if (number>0) {
+    console.log("positive");
+}
+else{
+    console.log("negative");
+}
+*/
