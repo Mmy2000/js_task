@@ -1,12 +1,15 @@
 
 /*
- question 1 
+ question 1 Write a program that allow to user enter number then printit
+
  x = Number(window.prompt("enter the number : "))
  console.log(x);
 */
 
 /*
-question 2 
+question 2 Write a program that take number from user then print yes if that number can divide by 3
+and 4 otherwise print no
+
 number = Number(window.prompt("Enter the number : "))
 if (number % 3 ==0 & number % 4 == 0) {
     console.log("Yes");
@@ -17,7 +20,8 @@ else{
 */
 
 /*
-question 3
+question 3 Write a program that allows the user to insert 2 integers then print the max
+
 number1 = Number(window.prompt("Enter the first number : "))
 number2 = Number(window.prompt("Enter the second number : "))
 
@@ -30,7 +34,9 @@ else{
 */
 
 /*
-question 4
+question 4 Write a program that allows the user to insert an integer then print negative if it is
+negative number otherwise print positive.
+
 number = Number(window.prompt("Enter the number : "))
 if (number>0) {
     console.log("positive");
@@ -41,7 +47,8 @@ else{
 */
 
 /*
-question 5
+question 5 Write a program that take 3 integers from user then print the max element
+and the min element.
 
 number1 = Number(window.prompt("Enter the first number : "))
 number2 = Number(window.prompt("Enter the second number : "))
