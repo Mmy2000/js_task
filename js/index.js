@@ -81,7 +81,8 @@ else if (number3>number1 & number3>number2 & number1<number2){
 */
 
 /*
-question 6
+question 6 Write a program that allows the user to insert integer number then
+check If a number is oven or odd
 
 number = Number(window.prompt("Enter the number : "))
 if (number%2==0) {
