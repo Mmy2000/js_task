@@ -238,3 +238,37 @@ switch (mounthNumber) {
         break;
 }
 */
+
+/*
+question 17
+string = window.prompt("enter your letter : ")
+switch (string) {
+    case "o":
+    case "e":
+    case "i":
+    case "a":
+    case "u":
+        console.log("vowel");
+        break;
+    default:
+        console.log("consonant");
+        break;
+}
+*/
+
+/*
+question 18
+number1 = Number(window.prompt("Enetr the number 1 : "))
+number2 = Number(window.prompt("Enetr the number 2 : "))
+
+switch (true) {
+    case number1 > number2:
+        console.log("Number 1 is bigger");
+        break;
+    case number1 < number2:
+        console.log("Number 2 is bigger");
+        break;
+    default:
+        break;
+}
+*/
