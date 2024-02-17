@@ -272,3 +272,36 @@ switch (true) {
         break;
 }
 */
+
+/*
+question 19
+number = Number(window.prompt("Enetr the number: "))
+switch (true) {
+    case number % 2 == 0:
+        console.log("even");
+        break;
+    case number % 2 != 0:
+        console.log("odd");
+        break;
+    default:
+        break;
+}
+*/
+
+/*
+question 20
+number = Number(window.prompt("Enetr the number: "))
+switch (true) {
+    case number > 0:
+        console.log("positive");
+        break;
+    case number < 0:
+        console.log("negative");
+        break;
+    case number == 0:
+        console.log("Zero");
+        break;
+    default:
+        break;
+}
+*/
