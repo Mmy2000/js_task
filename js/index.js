@@ -305,3 +305,31 @@ switch (true) {
         break;
 }
 */
+
+/*
+question 21
+number1 = Number(window.prompt("Enetr the number 1 : "))
+number2 = Number(window.prompt("Enetr the number 2 : "))
+operator = window.prompt("Enter the operator : ")
+switch (operator) {
+    case "+":
+        result = number1 + number2
+        console.log("result is : " + " " + result );
+        break;
+    case "-":
+        result = number1 - number2
+        console.log("result is : " + " " + result);
+        break;
+    case "*":
+        result = number1 * number2
+        console.log("result is : " + " " + result );
+        break;
+    case "/":
+        result = number1 / number2
+        console.log("result is : " + " " + result );
+        break;
+
+    default:
+        break;
+}
+*/
